@@ -1,8 +1,8 @@
 ---
 title: "Google Data Analytics Capstone project"
 subtitle: "Cyclistic Case Study"
-author: "Mahmoud Elmaandi"
-date: "27/02/2022"
+author: "Shivraj Karande"
+date: "31/01/2023"
 output: html_document
 editor_options: 
   chunk_output_type: console
@@ -366,17 +366,3 @@ Longer rides can get some type of rewards program when they become members
 This provides more incentive for the member rides to cycle longer distances. 
 
 * Alternatively, longer rides can be rewarded with benefits such as discount vouchers. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
